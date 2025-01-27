@@ -1,7 +1,7 @@
 # Projeto de Automação E2E com Cypress
 
 ## Descrição do Projeto
-Este projeto foi desenvolvido para atender o desafio técnico da DTI Digital de automação E2E utilizando Cypress . Foram criados 6 cenários de teste:
+Este projeto foi desenvolvido para atender o desafio técnico da **DTI Digital** de automação E2E utilizando Cypress . Foram criados 6 cenários de teste:
 - **Login:**
   1. Login com credenciais válidas.
   2. Login com credenciais inválidas.
