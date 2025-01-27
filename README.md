@@ -25,11 +25,11 @@ Além disso, foi utilizada a biblioteca **Faker.js** para geração de dados ale
 1. Certifique-se de que você possui o **Git** instalado em sua máquina.
 2. Execute o seguinte comando no terminal para clonar o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/jmarcal/desafio_tecnico_dti_digital.git>
    ```
 3. Acesse o diretório do projeto:
    ```bash
-   cd <NOME_DO_DIRETORIO>
+   cd <NOME_DO_DIRETORIO_NOMEADO>
    ```
 
 ---
